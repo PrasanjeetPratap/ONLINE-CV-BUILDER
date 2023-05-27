@@ -1,0 +1,18 @@
+body {
+    background-color: rgba(203, 243, 57, 0.737);
+} 
+#CV-form{
+    /*display: none;*/
+}
+#CV-template{
+    display: none;
+}
+.myimg {
+    border-radius: 50%;
+    width: 200px;
+}
+
+.background {
+    background-color: rgba(11, 92, 42, 0.973);
+    color: aliceblue;
+}
